@@ -1,0 +1,7 @@
+resolver: lts-18.27
+
+extra-deps:
+  - github: aneilmac/worldturtle-haskell
+    commit: 720fec0b6e734bf95e94c8fabd8dd89148d12908
+    subdirs:
+      - worldturtle
